@@ -1,2 +1,2 @@
-# Basic-discord-bot
-This is a basic Discord slash commands bot writed by me!
+This is a basic Discord bot use slash commands!
+Install the requirements: pip install -r requirements.txt
